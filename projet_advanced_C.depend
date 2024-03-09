@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710026805 source:y:\projet_advanced_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"yassine.h"
+
+1710026873 y:\projet_advanced_c\yassine.h
+
